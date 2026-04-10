@@ -6,7 +6,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardBut
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
 # ТВОЙ ТОКЕН
-TOKEN = "8782536892:AAGtM2a-NP-zN--xpehjQqjWvwzNMGfm0rw"
+TOKEN = "Твой токен"
 
 # Отключаем лишние логи
 logging.basicConfig(level=logging.ERROR)
